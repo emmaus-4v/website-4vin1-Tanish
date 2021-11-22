@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #4b4b4b;  
+    background-color: #181818;  
     
-    color: #303030;
+    color: #fffefe;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -35,6 +35,11 @@ footer {
 
 
 /* specifieke stijlen */
+
+
+
+
+
 
 img.zweefLinks {
     float: left;
